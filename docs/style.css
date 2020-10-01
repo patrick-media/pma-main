@@ -12,3 +12,23 @@
   height: 82px;
   width: 1920px;
 }
+#nav-home-text {
+  color: black;
+  font-family: lucida-grande, sans-serif;
+}
+#nav-about-contact-text {
+  color: black;
+  font-family: lucida-grande, sans-serif;
+}
+#nav-software-text {
+  color: black;
+  font-family: lucida-grande, sans-serif;
+}
+#nav-hardware-text {
+  color: black;
+  font-family: lucida-grande, sans-serif;
+}
+#nav-help-text {
+  color: black;
+  font-family: lucida-grande, sans-serif;
+}
