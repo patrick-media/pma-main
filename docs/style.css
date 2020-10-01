@@ -8,5 +8,7 @@
 }
 #nav-bar-bg {
   padding: 0px;
-  float: top;
+  float: left;
+  height: 82px;
+  width: 1920px;
 }
